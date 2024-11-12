@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Nirupa Dudhatra(@NirupaD)
+- 👀 I’m interested in technology, business, and everything
+- 🌱 I’m currently learning/Sharpening SQL, data analytics, data engineering, data science, AI and financial analytics.
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me: n.dudhata@gmail.com
+- ⚡ Fun fact: I have trekked to 50+ locations in different terrain in India and Canada
+- I am also Actively looking for a job/intership in Canada in Digital transformation, Data or Consulting.
